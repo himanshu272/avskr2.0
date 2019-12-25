@@ -6,3 +6,4 @@ settings.py
 wsgi/static/
 .coverage
 .DS_Store
+.env

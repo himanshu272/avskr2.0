@@ -21,4 +21,4 @@ social-auth-core==1.6.0
 six==1.10.0
 sphinx-me==0.3
 Unidecode==1.0.22
-
+python-decouple==3.1
